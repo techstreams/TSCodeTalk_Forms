@@ -11,6 +11,7 @@
 A repository of various Google Forms Google Apps Scripts.
 
 * [Retrieve Form Response](./Retrieve_Form_Response.md)
+* [Share Form "View" Only Access](./Share_Form_View_Only_Access.md)
 
 ---
 
