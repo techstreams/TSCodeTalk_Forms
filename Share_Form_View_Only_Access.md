@@ -1,7 +1,7 @@
 # TSCodeTalk > Forms > Share Form "View" Only Access
 
 
-This script shares a form with "View" only access.
+This script shares a form with "View" only access.  *(Forms do not automatically provide a way to share forms as "View" Only.)*
 
 ---
 
